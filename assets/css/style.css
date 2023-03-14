@@ -104,7 +104,8 @@ h6 {
 #header .logo img {
   padding: 0;
   margin: 0;
-  max-height: 40px;
+  max-height: 70px;
+  max-width: 170px;
 }
 
 @media (max-width: 992px) {
@@ -372,7 +373,7 @@ h6 {
 #hero {
   width: 100%;
   height: calc(100vh - 70px);
-  background: url("../img/hero-bg.jpg") center center;
+  background: url("../img/civileng.jpg") center center;
   background-size: cover;
   position: relative;
   margin-top: 70px;
