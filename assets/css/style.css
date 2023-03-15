@@ -1,14 +1,6 @@
-/**
-* Template Name: Maxim
-* Updated: Mar 10 2023 with Bootstrap v5.2.3
-* Template URL: https://bootstrapmade.com/maxim-free-onepage-bootstrap-theme/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
-
-/*--------------------------------------------------------------
-# General
---------------------------------------------------------------*/
+.main-logo{
+  background-image: transparent;
+}
 body {
   font-family: "Open Sans", sans-serif;
   color: #444444;
