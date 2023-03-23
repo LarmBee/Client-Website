@@ -1,6 +1,12 @@
 .main-logo{
   background-image: transparent;
 }
+
+.services-div{
+  margin-left: 40px;
+  display: flex;
+  align-items: center;
+}
 body {
   font-family: "Open Sans", sans-serif;
   color: #444444;
